@@ -173,8 +173,8 @@ function hash(password, options) {
         id: `argon2${variant}`,
         version,
         params: {
-          t: iterations,
           m: memory,
+          t: iterations,
           p: parallelism
         },
         salt,
