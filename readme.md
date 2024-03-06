@@ -2,7 +2,9 @@
   <b>phc-argon2</b>
 </h1>
 
-> Fork of [@phc/argon2](https://npm.im/@phc/argon2) with updated dependencies
+>
+> Fork of [@phc/argon2](https://npm.im/@phc/argon2) with updated dependencies AND re-ordering the parameters to meet the specification.
+>
 
 <p align="center">
   <!-- CI - TravisCI -->
